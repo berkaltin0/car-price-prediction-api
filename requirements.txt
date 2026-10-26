@@ -1,0 +1,8 @@
+autogluon.tabular
+pandas
+fastapi
+uvicorn
+pydantic
+catboost
+xgboost
+lightgbm
